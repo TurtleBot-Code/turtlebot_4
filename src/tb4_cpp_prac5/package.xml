@@ -4,7 +4,8 @@
   <name>tb4_cpp_prac5</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="curtinrobotai@todo.todo">curtinrobotai</maintainer>
+  <author email="mrtharinsilva@gmail.com">rovindu</author>
+  <maintainer email="dyrfernando@gmail.com">yasiru</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
